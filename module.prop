@@ -1,8 +1,0 @@
-id=SuperUserListRestore
-name=Super User List Restore
-version=v1.1
-versionCode=1
-author=73sydney
-description=Magisk Manage Super User List Restore
-support=https://github.com/stylemessiah/SuperuserListRestore
-updateJson=https://raw.githubusercontent.com/stylemessiah/SuperuserListRestore/main/update.json
